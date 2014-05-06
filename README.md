@@ -1,6 +1,6 @@
 #12" Telescope Resoration Project#
-Restoration of Maurice's 12" German-Equatorial Newtonian Reflector telescope
-=============
+============
+#####Restoration of Maurice's 12" German-Equatorial Newtonian Reflector telescope#####
 
 ###Story:###
 -------------
@@ -16,13 +16,13 @@ Unfortunately, when I first got the thing, I didn't think to take pictures of it
 
 ###More "technical" specs:###
 -------------
-Newtonian reflector (class of telescopes invented by Sir Isaac Newton that uses two mirrors and an eyepiece)
+Newtonian reflector (class of telescopes invented by Sir Isaac Newton that uses two mirrors and an eyepiece). [Click here for an overview of telescope types](http://langwoodsphotography.com/eshop/Types-of-Telescopes.html)
 
 ![Newtonian Reflector](http://www.derbyastronomy.org/images/NewtonianReflectorDiagram.jpg)
 
 -------------
 
-German Equatorial Mount (just the way the telescope moves/slews - it follows the stars with one arcing motion)
+German Equatorial Mount (just the way the telescope moves/slews - it follows the stars with one arcing motion) [Click here for an overview of telescope mounts](http://science.howstuffworks.com/telescope5.htm)
 
 ![German Equitorial Mount](http://www.moreheadplanetarium.org/files/equator.gif)
 
